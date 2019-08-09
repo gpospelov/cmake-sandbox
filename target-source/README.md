@@ -1,4 +1,4 @@
-# CMake playground: fancylib example.
+# CMake playground: target-source example.
 
 Demonstrates usage of `target_source()` as explained in
 [Enhanced source file handling with target_sources()](https://crascit.com/2016/01/31/enhanced-source-file-handling-with-target_sources).
